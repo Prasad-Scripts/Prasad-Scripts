@@ -21,6 +21,9 @@ I enjoy building practical projects that bring together **technology, security**
   <a href="https://leetcode.com/u/itshari_7/">
     <img src="https://img.shields.io/badge/LEETCODE-FFA116?style=flat-square&logo=leetcode&logoColor=white">
   </a>
+  <a href="https://www.geeksforgeeks.org/profile/itshari">
+    <img src="https://img.shields.io/badge/GEEKSFORGEEKS-2F8D46?style=flat-square&logo=geeksforgeeks&logoColor=white">
+  </a>
 </p>
   
 ---
