@@ -10,22 +10,19 @@ I enjoy building practical projects that bring together **technology, security**
 
 ## 🤝 Connect With Me
 
-<p>
-<a href="https://www.linkedin.com/in/itshariprasad37/">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white">
-</a>
-</p>
-
-<p>
-<a href="https://mail.google.com/mail/?view=cm&fs=1&to=itshariprasad37@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-Contact-red?style=for-the-badge&logo=gmail&logoColor=white">
-</a>
-</p>
-
-<p>
-<a href="https://leetcode.com/u/itshari_7/">
-<img src="https://img.shields.io/badge/LeetCode-Profile-orange?style=for-the-badge&logo=leetcode&logoColor=white">
-</a>
+<p align="center">
+  <a href="https://www.linkedin.com/in/itshariprasad37/">
+    <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=flat-square&logo=linkedin&logoColor=white">
+  </a>
+  <a href="https://github.com/itshariprasad37">
+    <img src="https://img.shields.io/badge/GITHUB-000000?style=flat-square&logo=github&logoColor=white">
+  </a>
+  <a href="mailto:itshariprasad37@gmail.com">
+    <img src="https://img.shields.io/badge/EMAIL-D14836?style=flat-square&logo=gmail&logoColor=white">
+  </a>
+  <a href="https://leetcode.com/u/itshari_7/">
+    <img src="https://img.shields.io/badge/LEETCODE-FFA116?style=flat-square&logo=leetcode&logoColor=white">
+  </a>
 </p>
   
 ---
