@@ -35,7 +35,7 @@ I enjoy building practical projects that bring together **technology, security**
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
   </a>
   
-<a href="https://mail.google.com/mail/?view=cm&fs=1&to=itshariprasad370@gmail.com">
+<a href="https://mail.google.com/mail/?view=cm&fs=1&to=itshariprasad37@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-Contact-red?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
   
