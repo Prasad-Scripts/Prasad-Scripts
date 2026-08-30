@@ -36,7 +36,7 @@ Feel free to connect with me and discuss:
 - AI/ML
 - Software Engineering
 - Technology & Security
-- 
+  
 ---
 
 ⭐ **Always learning, building, and improving.**
