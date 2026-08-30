@@ -30,13 +30,19 @@ I enjoy building practical projects that bring together **technology, security**
 
 ## 🤝 Connect With Me
 
-Feel free to connect with me and discuss:
-
-## 🤝 Connect With Me
-
-<a href="https://www.linkedin.com/in/itshariprasad37/">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
-</a>
+<p align="left">
+  <a href="https://www.linkedin.com/in/itshariprasad37/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
+  </a>
+  
+  <a href="mailto:itshariprasad37@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-Contact-red?style=for-the-badge&logo=gmail" />
+  </a>
+  
+  <a href="https://leetcode.com/u/itshari_7/">
+    <img src="https://img.shields.io/badge/LeetCode-Profile-orange?style=for-the-badge&logo=leetcode" />
+  </a>
+</p>
   
 ---
 
