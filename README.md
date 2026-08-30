@@ -32,10 +32,11 @@ I enjoy building practical projects that bring together **technology, security**
 
 Feel free to connect with me and discuss:
 
-- Cybersecurity
-- AI/ML
-- Software Engineering
-- Technology & Security
+## 🤝 Connect With Me
+
+<a href="https://www.linkedin.com/in/itshariprasad37/">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
+</a>
   
 ---
 
