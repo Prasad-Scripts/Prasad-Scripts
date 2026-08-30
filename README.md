@@ -16,22 +16,6 @@ I enjoy building practical projects that bring together **technology, security**
 
 ---
 
-## 🛠️ Technologies I Use
-
-### 💻 Programming
-`Python` `Java` `SQL`
-
-### 🛡️ Cybersecurity
-`Network Security` `Web Security` `Threat Detection` `Security Fundamentals`
-
-### 🤖 Data & AI
-`Machine Learning` `Data Analysis`
-
-### 🔧 Tools
-`Git` `GitHub` `Linux` `VS Code`
-  
----
-
 ## 📚 Currently Learning
 
 - 🐍 Python for Cybersecurity
@@ -44,14 +28,6 @@ I enjoy building practical projects that bring together **technology, security**
   
 ---
 
-## 📈 GitHub
-
-I'm continuously working on projects to strengthen my skills in:
-
-`Cybersecurity` • `AML` • `AI/ML` • `Python` • `Java` • `SQL`
-
----
-
 ## 🤝 Connect With Me
 
 Feel free to connect with me and discuss:
@@ -60,7 +36,7 @@ Feel free to connect with me and discuss:
 - AI/ML
 - Software Engineering
 - Technology & Security
-
+- 
 ---
 
 ⭐ **Always learning, building, and improving.**
