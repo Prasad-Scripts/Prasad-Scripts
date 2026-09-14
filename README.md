@@ -28,5 +28,6 @@
 </p>
   
 ---
-
+<p align = "center">
 ⭐ **Always learning, building, and improving.**
+</p>
