@@ -1,4 +1,4 @@
-<h3 align="center">👋 Hi, I'm Hari Prasad</h3>
+<h1 align="center">👋 Hi, I'm Hari Prasad</h1>
 
 <p align="center">
   Hey! I'm a AI-ML engineering student interested in <strong>Cybersecurity, AI/ML for Security, Software Development</strong>.
