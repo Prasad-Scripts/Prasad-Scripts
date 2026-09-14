@@ -1,8 +1,8 @@
 # 👋 Hi, I'm Hari Prasad
 
-Hey! I'm a AI-ML engineering student interested in **Cybersecurity, AI/ML for Security, Software Development**.
+<center> Hey! I'm a AI-ML engineering student interested in **Cybersecurity, AI/ML for Security, Software Development**.
 
-I enjoy building practical projects that bring together **technology, security**.
+I enjoy building practical projects that bring together **technology, security**. </center>
 
 ---
 
