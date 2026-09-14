@@ -29,5 +29,5 @@
   
 ---
 <p align = "center">
-⭐ **Always learning, building, and improving.**
+⭐ <b> Always learning, building, and improving. </b>
 </p>
